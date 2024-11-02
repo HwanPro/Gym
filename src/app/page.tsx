@@ -24,7 +24,7 @@ export default function WolfGymLanding() {
   };
 
   const handleRedirect = () => {
-    router.push("/core/api/products");
+    router.push("/core/api/products/add");
   };
 
   /* const handleRegister = () => {
